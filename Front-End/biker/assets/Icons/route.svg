@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9" height="239" viewBox="0 0 9 239">
+  <g id="route" transform="translate(0 -92.96)">
+    <g id="Ellipse_178" data-name="Ellipse 178" transform="translate(0 92.96)" fill="#4d7cfe">
+      <path d="M 4.5 8 C 2.570090055465698 8 1 6.429910182952881 1 4.5 C 1 2.570090055465698 2.570090055465698 1 4.5 1 C 6.429910182952881 1 8 2.570090055465698 8 4.5 C 8 6.429910182952881 6.429910182952881 8 4.5 8 Z" stroke="none"/>
+      <path d="M 4.5 2 C 3.121500015258789 2 2 3.121500015258789 2 4.5 C 2 5.878499984741211 3.121500015258789 7 4.5 7 C 5.878499984741211 7 7 5.878499984741211 7 4.5 C 7 3.121500015258789 5.878499984741211 2 4.5 2 M 4.5 0 C 6.98528003692627 0 9 2.01471996307373 9 4.5 C 9 6.98528003692627 6.98528003692627 9 4.5 9 C 2.01471996307373 9 0 6.98528003692627 0 4.5 C 0 2.01471996307373 2.01471996307373 0 4.5 0 Z" stroke="none" fill="#4d7cfe"/>
+    </g>
+    <g id="Ellipse_178-2" data-name="Ellipse 178" transform="translate(0 168.96)" fill="none">
+      <path d="M4.5,0A4.5,4.5,0,1,1,0,4.5,4.5,4.5,0,0,1,4.5,0Z" stroke="none"/>
+      <path d="M 4.5 2 C 3.121500015258789 2 2 3.121500015258789 2 4.5 C 2 5.878499984741211 3.121500015258789 7 4.5 7 C 5.878499984741211 7 7 5.878499984741211 7 4.5 C 7 3.121500015258789 5.878499984741211 2 4.5 2 M 4.5 0 C 6.98528003692627 0 9 2.01471996307373 9 4.5 C 9 6.98528003692627 6.98528003692627 9 4.5 9 C 2.01471996307373 9 0 6.98528003692627 0 4.5 C 0 2.01471996307373 2.01471996307373 0 4.5 0 Z" stroke="none" fill="#4d7cfe"/>
+    </g>
+    <g id="Ellipse_178-3" data-name="Ellipse 178" transform="translate(0 245.96)" fill="none" stroke="#4d7cfe" stroke-width="2">
+      <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+      <circle cx="4.5" cy="4.5" r="3.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_605" data-name="Rectangle 605" width="3" height="3" rx="1.5" transform="translate(3 108.96)" fill="#4d7cfe"/>
+    <rect id="Rectangle_605-2" data-name="Rectangle 605" width="3" height="3" rx="1.5" transform="translate(3 138.96)" fill="#4d7cfe"/>
+    <rect id="Rectangle_605-3" data-name="Rectangle 605" width="3" height="3" rx="1.5" transform="translate(3 184.96)" fill="#4d7cfe"/>
+    <rect id="Rectangle_605-4" data-name="Rectangle 605" width="3" height="3" rx="1.5" transform="translate(3 261.96)" fill="#4d7cfe"/>
+    <rect id="Rectangle_605-5" data-name="Rectangle 605" width="3" height="3" rx="1.5" transform="translate(3 215.96)" fill="#4d7cfe"/>
+    <rect id="Rectangle_605-6" data-name="Rectangle 605" width="3" height="3" rx="1.5" transform="translate(3 292.96)" fill="#4d7cfe"/>
+    <rect id="Rectangle_607" data-name="Rectangle 607" width="3" height="3" rx="1.5" transform="translate(3 118.96)" fill="#4d7cfe"/>
+    <rect id="Rectangle_607-2" data-name="Rectangle 607" width="3" height="3" rx="1.5" transform="translate(3 148.96)" fill="#4d7cfe"/>
+    <rect id="Rectangle_607-3" data-name="Rectangle 607" width="3" height="3" rx="1.5" transform="translate(3 194.96)" fill="#4d7cfe"/>
+    <rect id="Rectangle_607-4" data-name="Rectangle 607" width="3" height="3" rx="1.5" transform="translate(3 271.96)" fill="#4d7cfe"/>
+    <rect id="Rectangle_607-5" data-name="Rectangle 607" width="3" height="3" rx="1.5" transform="translate(3 225.96)" fill="#4d7cfe"/>
+    <rect id="Rectangle_607-6" data-name="Rectangle 607" width="3" height="3" rx="1.5" transform="translate(3 302.96)" fill="#4d7cfe"/>
+    <rect id="Rectangle_608" data-name="Rectangle 608" width="3" height="3" rx="1.5" transform="translate(3 128.96)" fill="#4d7cfe"/>
+    <rect id="Rectangle_608-2" data-name="Rectangle 608" width="3" height="3" rx="1.5" transform="translate(3 158.96)" fill="#4d7cfe"/>
+    <rect id="Rectangle_608-3" data-name="Rectangle 608" width="3" height="3" rx="1.5" transform="translate(3 205.96)" fill="#4d7cfe"/>
+    <rect id="Rectangle_608-4" data-name="Rectangle 608" width="3" height="3" rx="1.5" transform="translate(3 282.96)" fill="#4d7cfe"/>
+    <rect id="Rectangle_608-5" data-name="Rectangle 608" width="3" height="3" rx="1.5" transform="translate(3 235.96)" fill="#4d7cfe"/>
+    <rect id="Rectangle_608-6" data-name="Rectangle 608" width="3" height="3" rx="1.5" transform="translate(3 312.96)" fill="#4d7cfe"/>
+    <g id="Ellipse_178-4" data-name="Ellipse 178" transform="translate(0 322.96)" fill="none" stroke="#4d7cfe" stroke-width="2">
+      <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+      <circle cx="4.5" cy="4.5" r="3.5" fill="none"/>
+    </g>
+  </g>
+</svg>
